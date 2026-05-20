@@ -1,1 +1,14 @@
 start git and github
+
+git workflows
+
+1. untracked
+2. tracked
+3. stages
+4. commit
+5. push
+
+Repository: storage location for code and its history.
+            * Repository can be local or remote
+            * tracks all changes to your project files
+
